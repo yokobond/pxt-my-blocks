@@ -1,7 +1,7 @@
 {
     "name": "pxt-my-blocks",
+    "version": "0.0.1",
     "description": "",
-    "version": "0.0.0",
     "dependencies": {
         "core": "*"
     },

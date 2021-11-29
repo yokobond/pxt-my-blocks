@@ -1,0 +1,6 @@
+{
+  "TempConvertType.CtoF|block": "°C to °F",
+  "TempConvertType.FtoC|block": "°F to °C",
+  "myBlocks.convertTemperature|block": "temperature|from %value|%convertType",
+  "{id:category}MyBlocks": "My Blocks"
+}
